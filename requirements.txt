@@ -3,3 +3,17 @@ pandas
 numpy
 matplotlib
 scikit-learn
+time
+matplotlib.pyplo
+seaborn 
+train_test_split
+BaseEstimator
+TransformerMixin
+Pipeline
+OneHotEncoder
+MinMaxScaler
+OrdinalEncoder
+SMOTE
+RandomForestClassifier
+StandardScaler
+requests
