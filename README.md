@@ -2,6 +2,7 @@
 #### An interactive ML web app that predicts whether a credit card application is likely to be approved based on applicant details. Built using Python, scikit-learn, and Streamlit, the project demonstrates data preprocessing, model training, and real-time prediction through a sleek user interface.
 **Live App**: Click here to try it out https://ccapprovalpredpy-wkas8ez5taaqwrkuhmpgez.streamlit.app/
 ![image alt](https://github.com/Architaa-P/creditcard_approval-prediction_using_ML/blob/main/Screenshot%202025-04-30%20201643.png?raw=true)
+![image alt](https://github.com/Architaa-P/creditcard_approval-prediction_using_ML/blob/main/Screenshot%202025-04-30%20201728.png?raw=true)
 ## Overview
 This machine learning project aims to automate and simulate a bank's credit card approval process. Using historical data and classification algorithms, it can predict the approval status of a new application in real-time.
 
